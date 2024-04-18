@@ -1,0 +1,10 @@
+.main-button {
+ width: 300px;
+ padding: 20px 30px;
+ background: rgb(107, 127, 158);
+ font-size: 28px;
+ color: aliceblue;
+ border: none;
+ border-radius: 8px;
+
+}
