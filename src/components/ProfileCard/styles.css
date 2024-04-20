@@ -1,0 +1,15 @@
+.profile-card-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  height: 450px;
+  width: 300px;
+  background: rgb(244, 230, 167);
+  border: 2px solid rgb(20, 30, 49);
+  font-size: 20px;
+}
+.profile-card-wrapper > img {
+  width: 150px;
+}
