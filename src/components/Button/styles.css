@@ -8,3 +8,11 @@
  border-radius: 8px;
 
 }
+
+.primary-button{
+    background: rgb(33, 40, 92);
+}
+
+.secondary-button{
+    background: rgb(5, 82, 21);
+}
