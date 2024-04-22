@@ -1,0 +1,15 @@
+.counter-wrapper{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 20px;
+    background: rgb(220, 204, 204);
+}
+
+.button-control{
+    width: 100px;
+}
+.counter-wrapper > p {
+    font-size: 32px;
+    font-weight: bold;
+}
